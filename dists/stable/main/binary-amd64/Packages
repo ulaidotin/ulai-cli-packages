@@ -1,0 +1,17 @@
+Package: ulai-cli
+Version: 0.1.1-1
+Architecture: amd64
+Maintainer: gokulsathyan-ulai gokul@ulai.in
+Installed-Size: 660
+Depends: libc6 (>= 2.34)
+Filename: pool/main/ulai-cli_0.1.1-1_amd64.deb
+Size: 265128
+MD5sum: 8fab4b84fb1582f7920cab13b5e7491b
+SHA1: c832f41ed55eef3bbdc6ac452e15ca407c869e6e
+SHA256: 70bc57879c35a1269d6410be8f375f32d5191087ee17aff87c854870f4be7099
+Section: utils
+Priority: optional
+Homepage: https://github.com/ulaidotin/ulai-cli
+Description: CLi for Ulai
+ A tiny example CLI that greets people.
+

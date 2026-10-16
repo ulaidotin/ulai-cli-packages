@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Fri, 16 Oct 2026 10:03:20 +0000
+Label: ulai-cli
+Origin: ulai-cli
+Suite: stable
+MD5Sum:
+ 22acd009350ececdb5f3c612a7f54c3b              514 main/binary-amd64/Packages
+ 4aae87725f6412336c41b4567b235ccd              397 main/binary-amd64/Packages.gz
+ 6f7a0ae55f920eb0e7a18a4e24afe77f              514 main/binary-arm64/Packages
+ 19472091e3cebb75ccc2c5a6f19e56cd              396 main/binary-arm64/Packages.gz
+SHA1:
+ 13f787f7e1ecdf53a552714e20df8bb9f3a51038              514 main/binary-amd64/Packages
+ 78bbc0be947a9ff14a75682458e7bd770fbee87f              397 main/binary-amd64/Packages.gz
+ 709fa72f134f672e1d79f3c6ad0e344142979922              514 main/binary-arm64/Packages
+ 98839d850a19240d489c305601466e3a63b7314c              396 main/binary-arm64/Packages.gz
+SHA256:
+ dd5c469168d5ee5c0c015773cf10cb580b8aedc9e447a4fa34a958aa5575ce46              514 main/binary-amd64/Packages
+ 5446f0dc01ae13d880325b52011808c45ee83134e210fd51d1eb9d0f8216c2f5              397 main/binary-amd64/Packages.gz
+ d17ca9abba38371d32c3b75334c3050641dd0e3993927fd312bb69cdf4b57a5a              514 main/binary-arm64/Packages
+ 3902d50130cd2ac88d0a6e50ab929bddd0ebe5e499000a576d0103f616bc2bb3              396 main/binary-arm64/Packages.gz
+SHA512:
+ e0c0b57a25fd7731c912f90cde207f4e9a384d0c9eaac369291250418e83f208e33aa9d3e16f6bb28d602df5fc00f383cf77b25aedd3228791d2a06a0ce19413              514 main/binary-amd64/Packages
+ ecf4bcbf51687a1625c0d7d309b6e502681014026f23e72e7ed39ebc40e889a6afd301f010c6e5029b91e7dbf1476dba7ef50579ebcdc8c280d891a6c8ca55ef              397 main/binary-amd64/Packages.gz
+ c7aa7db81ef6ae4a7dd3031f2cb41269246fd2e8f06ff5f851a36e164a5aed51e74a3f04cbb35257ecc7efd441931fdfc76f2791508cf0cb4c5bae6ace8d84f0              514 main/binary-arm64/Packages
+ 9851d9a9f9f4d3d9f00612d19aae8bafc640a3aa06bf79f186f6cc2ea694de5cd69a3d1fc77f20e8b58df6388fc187dfde1004bae55f6d639291350646294780              396 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEkLRJdKHKbvGYRXiOwJ+sU63dzOgFAmrR9mgACgkQwJ+sU63d
+zOjJkg//fiPa3vLOF9jI7AnybGg6ebSy6OGgnrz0ASc6JqqruL6daBEp4+aSKf4/
+KYi9twHYSjIAsiUhrO5WWYwrDE1wB8sU4JZccJR1p6eJ0jZLkdVOR2nxWTURWPK3
+i+qazxEYiCuVhSDQCfR6oq/7sMl9+kYlDFoQAlQ74GMPaPqiUlWWVEP/kgLnJ8+K
+MPGhFrDq9VQXvP6XrCvXcwvDbxsA3iaFxhxt/1FFP270dP0MEboxGE4ocZ9hW/++
+4PFS3nOohNkNJ5xtCpY3FFvPvJvjhZinzWzB368i5Gr7f9pfj4Q9/jvrSI0OP2KJ
+JbRLkdAS5noyVcElXCn0GaafIPDtzB0QPXoLeBjtMPtKsCbY3Ij6KAE+ozSM4Y8b
+Pr/t+3PdqiUBGS/6Fw52nlD9/LONEpmz6fa5qPfz3oYVDfrLvWmDQL2LxcvKUfB0
+pRqoPlkM2rUFc0vRhMKScwDoPtm9kGj92xp0FVvzvpWQxDc+TUWNQ4jo6iFeLi0H
+0/uWBIMBWSES36FPawDi68u3JYXeaOzGY11bydXraLZMu8KpbtZXuZl2zKSY5gr/
+ASl1it8NKr7tzwMFufeyzZicpCfxEXE4UQ6QyGICDKmmbicOcWzy2L9z+8/Z42Ds
+A7lXE7f5iyOeafPDtbspspVWguma64RrTY7doDqSWyR4A9e4pXE=
+=gASO
+-----END PGP SIGNATURE-----
