@@ -1,14 +1,14 @@
 Package: ulai-cli
-Version: 0.1.1-1
+Version: 0.1.2-1
 Architecture: arm64
 Maintainer: gokulsathyan-ulai gokul@ulai.in
 Installed-Size: 572
 Depends: libc6 (>= 2.34)
-Filename: pool/main/ulai-cli_0.1.1-1_arm64.deb
-Size: 227916
-MD5sum: d7f6a7422c246c39a4e4ad358f83c346
-SHA1: ba03a2ab4a776a620b0fad21ed6dfd1f9459c54f
-SHA256: 1cfb706454236648f63b2db1375b1e77c791da248b517c236b9352f4cd0ba2dc
+Filename: pool/main/ulai-cli_0.1.2-1_arm64.deb
+Size: 227880
+MD5sum: 661005780f4fe9fbfbbf039856560bb7
+SHA1: 18f36a142d45f5c9840c79abf374b4922abe7d43
+SHA256: 38936c85ca6ec6c870236cc9cad89fd67e5a64dd7685105e0ab009a3102946fb
 Section: utils
 Priority: optional
 Homepage: https://github.com/ulaidotin/ulai-cli
