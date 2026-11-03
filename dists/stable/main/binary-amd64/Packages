@@ -1,15 +1,15 @@
 Package: ulai-cli
-Version: 0.1.6-1
+Version: 0.1.7-1
 Architecture: amd64
 Maintainer: gokulsathyan-ulai gokul@ulai.in
-Installed-Size: 7880
+Installed-Size: 7871
 Depends: ca-certificates, libc6 (>= 2.34)
 Recommends: docker-ce | docker.io, docker-compose-plugin
-Filename: pool/main/ulai-cli_0.1.6-1_amd64.deb
-Size: 1935780
-MD5sum: 66d6a4668537890494a5ac13a33cf0d8
-SHA1: 9a8464c9052feb69b924aca333e194f74eb3cbba
-SHA256: 4ea7df5deaf5e15874a3488c6585fd5d039406fc9688502a15c1808472d5be93
+Filename: pool/main/ulai-cli_0.1.7-1_amd64.deb
+Size: 1938212
+MD5sum: 5aed962b5aef8111cf26275bc0922402
+SHA1: 60768c8673f73cf9842a6154cfb47377ea60adef
+SHA256: af55d6111866e42626fba982d30abef2295b71e54917c9dc4c1e8f3379f55b0f
 Section: utils
 Priority: optional
 Homepage: https://github.com/ulaidotin/ulai-cli
